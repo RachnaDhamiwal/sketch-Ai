@@ -1,2 +1,2 @@
 # sketch-Ai
-Give sketch of the image which u input !!
+Give sketch of the image which u input !
